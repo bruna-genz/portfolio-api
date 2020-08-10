@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "title": "Facebook Clone",
+      "description": "This project was an assignment from Microverse training. It's a Facebook clone. Users can create an account or sign up with their original Facebook account. Logged in, they can post, like and comment on posts. Also, they can request friendship from other users and create chat rooms to talk with other users. The search bar can be used to find users by the first name.",
+      "tools": ["HTML", "CSS", "Ruby", "Ruby on Rails", "RSpec", "Capybara", "Bulma"],
+      "links": ["https://github.com/bruna-genz/facebook_clone", "https://fb-clone-bruna-nico.herokuapp.com/contents/new"]
+    },
+    {
+      "title": "Members Only",
+      "description": "Members Only is a blog were signed up users can posts messages. Any person who access the site can see those messages, but only logged in users can see the authors. The design of the page is inspired by CSS-tricks website. This project was an assignment from Microverse training. ",
+      "tools": ["HTML", "CSS", "Ruby", "Ruby on Rails"],
+      "links": ["https://github.com/bruna-genz/members-only", "https://afternoon-depths-57944.herokuapp.com/posts"]
+    },
+    {
+      "title": "Private Events",
+      "description": "This web application is a blog where users can create and attend events and was created based on Eventbrite. Events show a list of attendees and are separated in two lists: past and upcoming. In the profile page, users can see lists of attended and created events. This project was an assignment from Microverse training. ",
+      "tools": ["HTML", "CSS", "Ruby", "Ruby on Rails", "RSpec", "Capybara", "Semantic UI"],
+      "links": ["https://github.com/bruna-genz/private-events", "https://pure-brook-88318.herokuapp.com/"]
+    },
+    {
+      "title": "Calculator",
+      "description": "My first major app built with JavaScript. It consists of a basic calculator. Operations can be done either clicking on the calculator's buttons or using the keybord. On the keybord, enter returns the result. Multiple operations can be done sequentially. ",
+      "tools": ["HTML", "CSS", "JavaScript"],
+      "links": ["https://github.com/bruna-genz/Calculator", "https://rawcdn.githack.com/bruna-genz/Calculator/78d108584d7f7f1960ab8b1a95cd2f843ae86574/calculator.html"]
+    },
+    {
+      "title": "The Next Web clone",
+      "description": "This project consists on a clone for the TNW homepage, with the objective of building a responsive design. This project was an assignment from Microverse training. ",
+      "tools": ["HTML", "CSS"],
+      "links": ["https://github.com/bruna-genz/next-web-page/blob/master/README.md", "https://rawcdn.githack.com/bruna-genz/next-web-page/cdcfb76b7b27b6372e1ebdf849f76abe1892d3dc/index.html"]
+    }
+  ]
+}
