@@ -2,8 +2,8 @@
   "projects": [
     {
       "title": "Facebook Clone",
-      "description": "This project was an assignment from Microverse training. It's a Facebook clone. Users can create an account or sign up with their original Facebook account. Logged in, they can post, like and comment on posts. Also, they can request friendship from other users and create chat rooms to talk with other users. The search bar can be used to find users by the first name.",
-      "tools": ["HTML", "CSS", "Ruby", "Ruby on Rails", "RSpec", "Capybara", "Bulma"],
+      "description": "This project was an assignment from Microverse training. It's a Facebook clone. Users can create an account or sign up with their original Facebook account. Logged in, they can post, like, and comment on posts. Also, they can request friendship from other users and create chat rooms to talk with other users.",
+      "tools": ["HTML", "CSS", "Ruby", "Ruby on Rails", "RSpec", "Capybara", "Bulma", "Heroku"],
       "links": [
         {
           "type": "Source code",
@@ -17,68 +17,100 @@
       "image-ref": "facebookImg"
     },
     {
-      "title": "Members Only",
-      "description": "Members Only is a blog were signed up users can posts messages. Any person who access the site can see those messages, but only logged in users can see the authors. The design of the page is inspired by CSS-tricks website. This project was an assignment from Microverse training. ",
-      "tools": ["HTML", "CSS", "Ruby", "Ruby on Rails"],
+      "title": "Capsule Wardrobe",
+      "description": "The Capsule Wardrobe app allows users to create an account and upload images of their clothes,  creating a catalog of their wardrobe. The items can be categorized in personalized lists and the user can create looks with the uploaded items",
+      "tools": ["HTML", "CSS", "Bootstrap", "Ruby", "Ruby on Rails", "Heroku"],
       "links": [
         {
           "type": "Source code",
-          "url": "https://github.com/bruna-genz/members-only" 
+          "url": "https://github.com/bruna-genz/Capsule_Wardrobe" 
         },
         {
           "type": "Live version",
-          "url": "https://afternoon-depths-57944.herokuapp.com/posts" 
+          "url": "https://agile-sea-56583.herokuapp.com/" 
         }
       ],
-      "image-ref": "membersOnlyImg"
+      "image-ref": "capsuleWardrobeImg"
     },
     {
-      "title": "Private Events",
-      "description": "This web application is a blog where users can create and attend events and was created based on Eventbrite. Events show a list of attendees and are separated in two lists: past and upcoming. In the profile page, users can see lists of attended and created events. This project was an assignment from Microverse training. ",
-      "tools": ["HTML", "CSS", "Ruby", "Ruby on Rails", "RSpec", "Capybara", "Semantic UI"],
+      "title": "Space Burna",
+      "description": "This was my Capstone project for Microverse's JavaScript course. Space Burna is a classic shooting game that happens in the space. The goal is to survive for the longest possible time, while you destroy the enemies and avoid being shot to death.",
+      "tools": ["HTML", "Sass", "JavaScript", "Phaser", "Webpack", "Babel", "Netlify"],
       "links": [
         {
           "type": "Source code",
-          "url":  "https://github.com/bruna-genz/private-events"
+          "url":  "https://github.com/bruna-genz/space-burna"
         },
         {
           "type": "Live version",
-          "url":  "https://pure-brook-88318.herokuapp.com/"
+          "url":  "https://spaceburna.netlify.app/"
         }
       ],
-      "image-ref": "privateEventsImg"
+      "image-ref": "spaceBurnaImg"
     },
     {
-      "title": "Calculator",
-      "description": "My first major app built with JavaScript. It consists of a basic calculator. Operations can be done either clicking on the calculator's buttons or using the keybord. On the keybord, enter returns the result. Multiple operations can be done sequentially. ",
-      "tools": ["HTML", "CSS", "JavaScript"],
+      "title": "Tic-Tac-Toe",
+      "description": "In this project, a coding partner and I developed a classic Tic-Tac-Toe game, with a creative and modern design. It consists of a single page application and was built using the JavaScript module pattern.  Players can add their names and keep track of the score.",
+      "tools": ["HTML", "Sass", "JavaScript", "Webpack", "npm", "Babel", "Jest", "Netlify"],
       "links": [
         {
           "type": "Source code",
-          "url": "https://github.com/bruna-genz/Calculator" 
+          "url": "https://github.com/bruna-genz/Tic-Tac-Toe-JS" 
         },
         {
           "type": "Live version",
-          "url": "https://rawcdn.githack.com/bruna-genz/Calculator/78d108584d7f7f1960ab8b1a95cd2f843ae86574/calculator.html"
+          "url": "https://tictactoe-bruna.netlify.app/"
         }
       ],
-      "image-ref": "calculatorImg"
+      "image-ref": "tttImg"
     },
     {
-      "title": "The Next Web clone",
-      "description": "This project consists on a clone for the TNW homepage, with the objective of building a responsive design. This project was an assignment from Microverse training. ",
-      "tools": ["HTML", "CSS"],
+      "title": "The Weather App",
+      "description": "The Weather App uses the OpenWeather API to allow users to search for weather information in cities worldwide. It has a modern design, and the background reflects the current temperature, using CSS animations.",
+      "tools": ["HTML", "CSS", "JavaScript", "npm", "Webpack", "Netlify"],
       "links": [
         {
           "type": "Source code",
-          "url": "https://github.com/bruna-genz/next-web-page/blob/master/README.md" 
+          "url": "https://github.com/bruna-genz/weather-app" 
         },
         {
           "type": "Live version",
-          "url": "https://rawcdn.githack.com/bruna-genz/next-web-page/cdcfb76b7b27b6372e1ebdf849f76abe1892d3dc/index.html" 
+          "url": "https://weather-app-by-bruna.netlify.app/" 
         }
       ],
-      "image-ref": "nextWebImg"
+      "image-ref": "weatherAppImg"
+    },
+    {
+      "title": "OhMyMood!",
+      "description": "OhMyMood! is a mobile web-application to track moods and emotions. To develop this app, I used React on the front-end, using Redux to manage the internal state. The back-end was built with Ruby on Rails.",
+      "tools": ["HTML", "CSS", "JavaScript", "React", "Redux", "Webpack", "Heroku"],
+      "links": [
+        {
+          "type": "Source code",
+          "url": "https://github.com/bruna-genz/mood-tracker-client" 
+        },
+        {
+          "type": "Live version",
+          "url": "https://ohmymood.herokuapp.com" 
+        }
+      ],
+      "image-ref": "moodImg"
+    },
+    {
+      "title": "Worthy Work",
+      "description": "This project consists of a job search platform, focused on the humanitarian field. It was built with React and Redux and uses the  ReliefWeb API to get the information.",
+      "tools": ["HTML", "CSS", "JavaScript", "React", "Redux", "Webpack", "Heroku"],
+      "links": [
+        {
+          "type": "Source code",
+          "url": "https://github.com/bruna-genz/worthy_work" 
+        },
+        {
+          "type": "Live version",
+          "url": "https://worthy-work.herokuapp.com" 
+        }
+      ],
+      "image-ref": "worthyWorkImg"
     }
   ]
 }
