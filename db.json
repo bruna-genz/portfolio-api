@@ -1,36 +1,36 @@
 {
   "projects": [
     {
-      "title": "Facebook Clone",
-      "description": "This project was an assignment from Microverse training. It's a Facebook clone. Users can create an account or sign up with their original Facebook account. Logged in, they can post, like, and comment on posts. Also, they can request friendship from other users and create chat rooms to talk with other users.",
-      "tools": ["HTML", "CSS", "Ruby", "Ruby on Rails", "RSpec", "Capybara", "Bulma", "Heroku"],
-      "links": [
-        {
-          "type": "Source code",
-          "url": "https://github.com/bruna-genz/facebook_clone" 
-        },
-        {
-          "type": "Live version",
-          "url": "https://fb-clone-bruna-nico.herokuapp.com/contents/new" 
-        }
-      ],
-      "image-ref": "facebookImg"
-    },
-    {
       "title": "Capsule Wardrobe",
       "description": "The Capsule Wardrobe app allows users to create an account and upload images of their clothes,  creating a catalog of their wardrobe. The items can be categorized in personalized lists and the user can create looks with the uploaded items",
       "tools": ["HTML", "CSS", "Bootstrap", "Ruby", "Ruby on Rails", "Heroku"],
       "links": [
         {
-          "type": "Source code",
+          "type": "Source Code",
           "url": "https://github.com/bruna-genz/Capsule_Wardrobe" 
         },
         {
-          "type": "Live version",
+          "type": "Live Version",
           "url": "https://agile-sea-56583.herokuapp.com/" 
         }
       ],
       "image-ref": "capsuleWardrobeImg"
+    },
+    {
+      "title": "Facebook Clone",
+      "description": "This project was an assignment from Microverse training. It's a Facebook clone. Users can create an account or sign up with their original Facebook account. Logged in, they can post, like, and comment on posts. Also, they can request friendship from other users and create chat rooms to talk with other users.",
+      "tools": ["HTML", "CSS", "Ruby", "Ruby on Rails", "RSpec", "Capybara", "Bulma", "Heroku"],
+      "links": [
+        {
+          "type": "Source Code",
+          "url": "https://github.com/bruna-genz/facebook_clone" 
+        },
+        {
+          "type": "Live Version",
+          "url": "https://fb-clone-bruna-nico.herokuapp.com/contents/new" 
+        }
+      ],
+      "image-ref": "facebookImg"
     },
     {
       "title": "Space Burna",
@@ -38,11 +38,11 @@
       "tools": ["HTML", "Sass", "JavaScript", "Phaser", "Webpack", "Babel", "Netlify"],
       "links": [
         {
-          "type": "Source code",
+          "type": "Source Code",
           "url":  "https://github.com/bruna-genz/space-burna"
         },
         {
-          "type": "Live version",
+          "type": "Live Version",
           "url":  "https://spaceburna.netlify.app/"
         }
       ],
@@ -54,11 +54,11 @@
       "tools": ["HTML", "Sass", "JavaScript", "Webpack", "npm", "Babel", "Jest", "Netlify"],
       "links": [
         {
-          "type": "Source code",
+          "type": "Source Code",
           "url": "https://github.com/bruna-genz/Tic-Tac-Toe-JS" 
         },
         {
-          "type": "Live version",
+          "type": "Live Version",
           "url": "https://tictactoe-bruna.netlify.app/"
         }
       ],
@@ -70,11 +70,11 @@
       "tools": ["HTML", "CSS", "JavaScript", "npm", "Webpack", "Netlify"],
       "links": [
         {
-          "type": "Source code",
+          "type": "Source Code",
           "url": "https://github.com/bruna-genz/weather-app" 
         },
         {
-          "type": "Live version",
+          "type": "Live Version",
           "url": "https://weather-app-by-bruna.netlify.app/" 
         }
       ],
@@ -86,11 +86,11 @@
       "tools": ["HTML", "CSS", "JavaScript", "React", "Redux", "Webpack", "Heroku"],
       "links": [
         {
-          "type": "Source code",
+          "type": "Source Code",
           "url": "https://github.com/bruna-genz/mood-tracker-client" 
         },
         {
-          "type": "Live version",
+          "type": "Live Version",
           "url": "https://ohmymood.herokuapp.com" 
         }
       ],
@@ -102,11 +102,11 @@
       "tools": ["HTML", "CSS", "JavaScript", "React", "Redux", "Webpack", "Heroku"],
       "links": [
         {
-          "type": "Source code",
+          "type": "Source Code",
           "url": "https://github.com/bruna-genz/worthy_work" 
         },
         {
-          "type": "Live version",
+          "type": "Live Version",
           "url": "https://worthy-work.herokuapp.com" 
         }
       ],
